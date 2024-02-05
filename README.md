@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Praciting Incident Handler's Journal](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+<h2>🧾Certifications:</h2>
 
-
-<h2>📺 Certifications </h2>
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
