@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting Incident Handler's Journal](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Incident Handler's Journal](https://github.com/JustinMills2024/Incident-Handler-s-Journal)
     
 <h2>🧾Certifications:</h2>
 
