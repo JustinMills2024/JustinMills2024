@@ -4,6 +4,7 @@
 
   - [Praciting Incident Handler's Journal](https://github.com/JustinMills2024/Incident-Handler-s-Journal)
   - [Data Leak Worksheet](https://github.com/JustinMills2024/Data-Leak-Worksheet)
+  - [Risk Register](https://github.com/JustinMills2024/Risk-Register)
     
 <h2>🧾Certifications:</h2>
 
