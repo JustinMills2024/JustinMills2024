@@ -6,6 +6,7 @@
   - [Data Leak Worksheet](https://github.com/JustinMills2024/Data-Leak-Worksheet)
   - [Risk Register](https://github.com/JustinMills2024/Risk-Register)
   - [Apply Filters To SQL queries](https://github.com/JustinMills2024/Apply-filters-to-SQL-queries)
+  - [Algorithm for file updates in Python](https://github.com/JustinMills2024/Risk-Register)
   
    
     
