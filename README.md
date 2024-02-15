@@ -12,7 +12,7 @@
     
 <h2>🧾Certifications:</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/eb12d983d2a5d6695a50222696540b14)
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HWPJTB57YTRC)
 
 <h2> 🤳 Connect with me:</h2>
 
