@@ -12,7 +12,7 @@
     
 <h2>🧾Certifications:</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/eb12d983d2a5d6695a50222696540b14)
 
 <h2> 🤳 Connect with me:</h2>
 
