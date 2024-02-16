@@ -7,7 +7,7 @@
   - [Risk Register](https://github.com/JustinMills2024/Risk-Register)
   - [Apply Filters To SQL queries](https://github.com/JustinMills2024/Apply-filters-to-SQL-queries)
   - [Algorithm for file updates in Python](https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python)
-  - [WireShark Capture Packetsl](https://github.com/JustinMills2024/Incident-Handler-s-Journal)
+  - [WireShark Capture Packets](https://github.com/JustinMills2024/Incident-Handler-s-Journal)
   
    
     
