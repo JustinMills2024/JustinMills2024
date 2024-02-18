@@ -18,6 +18,7 @@
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/80d66e72421f0335f37a93b727ec0b7e)
   - [Mastercard Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_Gbre66THDD4RTWJvt_1708176349870_completion_certificate.pdf)
   - [WireShark Capture Packets](https://www.coursera.org/account/accomplishments/verify/MBNE9DQKY69L)
+  - [AIG Shields Up: Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_Gbre66THDD4RTWJvt_1708226657137_completion_certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
