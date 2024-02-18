@@ -10,8 +10,7 @@
   - [Algorithm for file updates in Python](https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python)
   - [WireShark Capture Packets](https://github.com/JustinMills2024/WireShark-Capture-Packets)
   - [ Identify and reported security threats such as phishing]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
-  - [Drafted a clear and concise email to guide teams on vulnerability remediation.
-Utilized Python skills to write a script for ethical hacking](https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation)
+  - [Guided teams on vulnerability remediation. Utilized Python skills to write a script for ethical hacking](https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation)
   
   
    
