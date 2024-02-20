@@ -9,8 +9,9 @@
   - [Apply Filters To SQL queries](https://github.com/JustinMills2024/Apply-filters-to-SQL-queries)
   - [Algorithm for file updates in Python](https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python)
   - [WireShark Capture Packets](https://github.com/JustinMills2024/WireShark-Capture-Packets)
-  - [ Identify and reported security threats such as phishing]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
+  - [ Identify and report security threats such as phishing]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
   - [Guided teams on vulnerability remediation. Utilized Python skills to write a script for ethical hacking](https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation)
+  - [ Microsoft Windows Defender and Firewall Project]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
   
   
    
@@ -19,6 +20,7 @@
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/80d66e72421f0335f37a93b727ec0b7e)
   - [Mastercard Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_Gbre66THDD4RTWJvt_1708235815851_completion_certificate.pdf)
   - [WireShark Capture Packets](https://www.coursera.org/account/accomplishments/verify/MBNE9DQKY69L)
+  - [IBM[ Microsoft Windows Defender Firewall](https://coursera.org/share/11c92ccf2a2071ce4f2bfaced61f1778)
   - [AIG Shields Up: Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_Gbre66THDD4RTWJvt_1708235813440_completion_certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
