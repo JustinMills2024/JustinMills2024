@@ -11,7 +11,7 @@
   - [WireShark Capture Packets](https://github.com/JustinMills2024/WireShark-Capture-Packets)
   - [ Identify and report security threats such as phishing]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
   - [Guided teams on vulnerability remediation. Utilized Python skills to write a script for ethical hacking](https://github.com/JustinMills2024/Shields-Up-Cybersecurity-Job-Simulation)
-  - [ Microsoft Windows Defender and Firewall Project]( https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team)
+  - [ Microsoft Windows Defender and Firewall Project](https://github.com/JustinMills2024/Microsoft-Windows-Defender-and-Firewall-Project)
   
   
    
