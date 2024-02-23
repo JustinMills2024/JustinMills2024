@@ -19,6 +19,7 @@
 <h2>🧾Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/80d66e72421f0335f37a93b727ec0b7e)
+  - [Qualys Vulnerability Management Detection & Response](file:///C:/Users/jilmp/Downloads/coursecompletion%20(2)5.pdf)
   - [Foundations of Breach & Attack Simulation](https://www.academy.attackiq.com/certificate/6711?resource_id=3067&user_id=218664&type=course)
   - [Mastercard Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_Gbre66THDD4RTWJvt_1708235815851_completion_certificate.pdf)
   - [WireShark Capture Packets](https://www.coursera.org/account/accomplishments/verify/MBNE9DQKY69L)
